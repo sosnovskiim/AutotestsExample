@@ -1,0 +1,6 @@
+2026-11-26 17:38:39,281 - INFO - BaseElement - Клик по элементу: Ссылка Вход
+2026-11-26 17:38:39,396 - INFO - BaseElement - Ввод текста 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa' в элемент: Поле Логин
+2026-11-26 17:38:39,651 - INFO - BaseElement - Ввод текста '***' в элемент: Поле Пароль
+2026-11-26 17:38:39,663 - INFO - BaseElement - Клик по элементу: Кнопка Войти
+2026-11-26 17:38:40,712 - INFO - LoginPage - Проверка ошибки авторизации
+2026-11-26 17:38:41,766 - INFO - BaseElement - Клик по элементу: Ссылка Вход

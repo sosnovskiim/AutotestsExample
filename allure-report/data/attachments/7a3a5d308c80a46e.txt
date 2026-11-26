@@ -1,0 +1,8 @@
+[32mINFO    [0m BrowserSession:browser.py:15 Запуск браузера...
+[32mINFO    [0m BaseElement:base_element.py:12 Клик по элементу: Ссылка Вход
+[32mINFO    [0m BaseElement:base_element.py:16 Ввод текста 'sosnovskiim' в элемент: Поле Логин
+[32mINFO    [0m BaseElement:base_element.py:16 Ввод текста 'wrongpass' в элемент: Поле Пароль
+[32mINFO    [0m BaseElement:base_element.py:12 Клик по элементу: Кнопка Войти
+[32mINFO    [0m LoginPage:login_page.py:34 Проверка ошибки авторизации
+[32mINFO    [0m BaseElement:base_element.py:12 Клик по элементу: Ссылка Вход
+[32mINFO    [0m BrowserSession:browser.py:23 Остановка браузера...

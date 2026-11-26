@@ -1,0 +1,6 @@
+[32mINFO    [0m BrowserSession:browser.py:15 Запуск браузера...
+[32mINFO    [0m BaseElement:base_element.py:16 Ввод текста 'паркет' в элемент: Строка поиска
+[32mINFO    [0m BaseElement:base_element.py:12 Клик по элементу: Кнопка Найти
+[32mINFO    [0m BaseElement:base_element.py:12 Клик по элементу: Карточка товара
+[32mINFO    [0m BaseElement:base_element.py:12 Клик по элементу: Кнопка Купить
+[32mINFO    [0m BrowserSession:browser.py:23 Остановка браузера...
